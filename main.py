@@ -25,6 +25,8 @@ if __name__ == '__main__':
         f.writelines(f'  * \n')
         f.writelines(f'* Q：作者是怎么解决这些挑战的\n')
         f.writelines(f'  * \n')
+        f.writelines(f'* Q：作者的核心贡献是\n')
+        f.writelines(f'  * \n')
         f.writelines(f'* Q：其他问题\n')
         f.writelines(f'  * \n')
     print(filename)
